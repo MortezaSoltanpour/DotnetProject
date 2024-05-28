@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <img src="@Url.Action("GetFile","home",new {id=ViewBag.id })" />
+    <br />
+    <br />
+    <form action="/home/GetFile">
+        <input type="text" class="form-control" name="id" /><br />
+        <button class="btn btn-success">show file</button>
+    </form>
+</div>
