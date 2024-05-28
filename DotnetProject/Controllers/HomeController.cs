@@ -1,4 +1,5 @@
 ﻿using DotnetProject.Models;
+using DotnetProject.Utils;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -33,6 +34,21 @@ namespace DotnetProject.Controllers
             };
         }
 
+        [Route("CreateReport")]
+        public IActionResult CreateReport()
+        {
+            ExcelUtil excelUtil = new ExcelUtil();
+            string fileName = excelUtil.GenerateExcelReport();
+            var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/report", fileName);
+
+            var fileBytes = System.IO.File.ReadAllBytes(filePath);
+            var contentType = "application/octet-stream";
+
+            return new FileContentResult(fileBytes, contentType)
+            {
+                FileDownloadName = filePath
+            };
+        }
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
