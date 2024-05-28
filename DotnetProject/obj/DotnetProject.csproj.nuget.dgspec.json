@@ -43,10 +43,6 @@
             "ClosedXML": {
               "target": "Package",
               "version": "[0.102.2, )"
-            },
-            "EPPlus": {
-              "target": "Package",
-              "version": "[6.2.19, )"
             }
           },
           "imports": [

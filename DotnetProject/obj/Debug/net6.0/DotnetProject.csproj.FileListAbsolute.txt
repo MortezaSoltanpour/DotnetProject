@@ -7,7 +7,6 @@ D:\playground\Dotnet\DotnetProject\DotnetProject\bin\Debug\net6.0\DotnetProject.
 D:\playground\Dotnet\DotnetProject\DotnetProject\bin\Debug\net6.0\DotnetProject.dll
 D:\playground\Dotnet\DotnetProject\DotnetProject\bin\Debug\net6.0\ref\DotnetProject.dll
 D:\playground\Dotnet\DotnetProject\DotnetProject\bin\Debug\net6.0\DotnetProject.pdb
-D:\playground\Dotnet\DotnetProject\DotnetProject\obj\Debug\net6.0\DotnetProject.csproj.AssemblyReference.cache
 D:\playground\Dotnet\DotnetProject\DotnetProject\obj\Debug\net6.0\DotnetProject.GeneratedMSBuildEditorConfig.editorconfig
 D:\playground\Dotnet\DotnetProject\DotnetProject\obj\Debug\net6.0\DotnetProject.AssemblyInfoInputs.cache
 D:\playground\Dotnet\DotnetProject\DotnetProject\obj\Debug\net6.0\DotnetProject.AssemblyInfo.cs
@@ -24,17 +23,6 @@ D:\playground\Dotnet\DotnetProject\DotnetProject\obj\Debug\net6.0\DotnetProject.
 D:\playground\Dotnet\DotnetProject\DotnetProject\obj\Debug\net6.0\ref\DotnetProject.dll
 D:\playground\Dotnet\DotnetProject\DotnetProject\obj\Debug\net6.0\DotnetProject.pdb
 D:\playground\Dotnet\DotnetProject\DotnetProject\obj\Debug\net6.0\DotnetProject.genruntimeconfig.cache
-D:\playground\Dotnet\DotnetProject\DotnetProject\bin\Debug\net6.0\EPPlus.dll
-D:\playground\Dotnet\DotnetProject\DotnetProject\bin\Debug\net6.0\EPPlus.Interfaces.dll
-D:\playground\Dotnet\DotnetProject\DotnetProject\bin\Debug\net6.0\EPPlus.System.Drawing.dll
-D:\playground\Dotnet\DotnetProject\DotnetProject\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
-D:\playground\Dotnet\DotnetProject\DotnetProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\playground\Dotnet\DotnetProject\DotnetProject\bin\Debug\net6.0\System.Drawing.Common.dll
-D:\playground\Dotnet\DotnetProject\DotnetProject\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
-D:\playground\Dotnet\DotnetProject\DotnetProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\playground\Dotnet\DotnetProject\DotnetProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-D:\playground\Dotnet\DotnetProject\DotnetProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-D:\playground\Dotnet\DotnetProject\DotnetProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
 D:\playground\Dotnet\DotnetProject\DotnetProject\obj\Debug\net6.0\DotnetProject.csproj.CopyComplete
 D:\playground\Dotnet\DotnetProject\DotnetProject\bin\Debug\net6.0\ClosedXML.dll
 D:\playground\Dotnet\DotnetProject\DotnetProject\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
